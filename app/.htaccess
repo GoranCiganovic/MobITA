@@ -1,0 +1,7 @@
+Options -Indexes
+
+ErrorDocument 401 /home/gorancig/app/views/error/401_unauthorized/index.php
+                 
+ErrorDocument 403 /home/gorancig/app/views/error/403_forbiden/index.php
+                 
+ErrorDocument 404 /home/gorancig/app/views/error/404_not_found/index.php
